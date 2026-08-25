@@ -1,2 +1,0 @@
-# DawidiNatalia.
-stronanasza
