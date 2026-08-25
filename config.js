@@ -1,11 +1,11 @@
 /* EDYTUJ TEN PLIK, aby zmienić treści strony. Nie musisz grzebać w HTML. */
 const CONFIG = {
-  brand: "MOJA FIRMA",
-  badge: "PROFESJONALNIE • SZYBKO • NOWOCZEŚNIE",
+  brand: "Cześć Natalia",
+  badge: "Sada • Natalka • Sada",
   heroTitle: "Twoja strona.<br><span>Twój sukces.</span>",
-  heroText: "Gotowy szablon, który możesz łatwo dostosować do swojej firmy, projektu lub marki.",
-  heroButton: "Skontaktuj się",
-  heroSecondButton: "Zobacz ofertę",
+  heroText: "Bardzo mocno Cię kocham a to strona dedykowana tobie.",
+  heroButton: "Odpisz mi",
+  heroSecondButton: "Czemu Cię kocham",
 
   aboutTitle: "O nas",
   aboutHeading: "Budujemy rzeczy, które robią wrażenie.",
